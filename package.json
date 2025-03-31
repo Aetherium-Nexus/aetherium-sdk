@@ -1,0 +1,16 @@
+{
+  "name": "@aetherium-nexus/sdk",
+  "version": "1.0.0",
+  "description": "Official SDK for the Aetherium Nexus Protocol",
+  "scripts": {
+    "test": "yarn test:unit && yarn test:hardhat && yarn test:foundry"
+  },
+  "homepage": "https://github.com/Aetherium-Nexu/aetherium-sdk#readme",
+  "repository": "https://github.com/Aetherium-Nexu/aetherium-sdk.git",
+  "keywords": [
+    "Aetherium",
+    "SDK",
+    "Typescript"
+  ],
+  "license": "Apache-2.0"
+}
